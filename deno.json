@@ -10,5 +10,6 @@
   "lint": {
     "include": ["src/"],
     "exclude": ["src/core/"]
-  }
+  },
+  "lock": false
 }
