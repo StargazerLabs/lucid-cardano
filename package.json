@@ -7,7 +7,7 @@
   "repository": "https://github.com/spacebudz/lucid",
   "scripts": {
     "build": "deno task build",
-    "dev": "deno task dev",
+    "dev": "deno task build",
     "test": "deno task test"
   },
   "main": "./dist/esm/mod.js",
